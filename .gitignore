@@ -1,0 +1,7 @@
+dist
+build
+export
+draft
+.vscode
+.pio
+*.zip

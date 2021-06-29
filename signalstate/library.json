@@ -1,0 +1,20 @@
+{
+  "name": "SignalState",
+  "keywords": "infrared, ir, signal, signals, remote, state, repeat",
+  "description": "Manage single and repeated observations of input signals",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ubunatic/arduino/signalstate.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelmegaavr", "atmelsam", "espressif8266", "espressif32", "ststm32"],
+  "authors" :
+  [
+     {
+       "name":"Uwe Jugel",
+       "email":"@ubunatic"
+     }
+  ]
+}

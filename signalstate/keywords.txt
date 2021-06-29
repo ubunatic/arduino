@@ -1,0 +1,22 @@
+# static functions
+sigStateName     KEYWORD1
+
+# classes
+SigState         KEYWORD1
+
+# class members
+next             KEYWORD2
+signal           KEYWORD2
+state            KEYWORD2
+stateName        KEYWORD2
+receiveGap       KEYWORD2
+repeatRange      KEYWORD2
+setWaitingPeriod KEYWORD2
+setIdleSignal    KEYWORD2
+setIdle          KEYWORD2
+
+# defined constants
+SIGSTATE_IDLE             LITERAL1
+SIGSTATE_ACTIVE           LITERAL1
+SIGSTATE_ACTIVE_WAITING   LITERAL1
+SIGSTATE_ACTIVE_REPEATING LITERAL1
